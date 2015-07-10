@@ -1,0 +1,1149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro-VIP v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-12 15:09+0330\n"
+"Last-Translator: vahid <vahidd.com@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ provip_admin
+#: inc/admin/class-wp-vip-admin.php:101 inc/admin/class-wp-vip-admin.php:103
+msgid "Dashboard"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/class-wp-vip-admin.php:116
+msgid "VIP Members"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/class-wp-vip-admin.php:212
+msgid "Are you sure?"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/class-wp-vip-admin.php:213
+msgid "An error happened. Please try again."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files-ajax-actions.php:94
+msgid "Invalid file format."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files-ajax-actions.php:101
+msgid "Error in creating upload folders."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files-metabox.php:35
+msgid "File Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files-metabox.php:63
+msgid "Levels"
+msgstr ""
+
+# @ provip_admin
+# @ provip_frontend
+#: inc/admin/files/class-wp-vip-admin-files-metabox.php:67
+#: inc/admin/payments/class-wp-vip-admin-payments.php:96
+#: templates/content-single-download.php:65
+msgid "Price"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:30
+msgctxt "Post Type General Name"
+msgid "Files"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:31
+msgctxt "Post Type Singular Name"
+msgid "File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:32
+#: inc/admin/files/class-wp-vip-admin-files.php:33
+#: inc/admin/files/class-wp-vip-admin-files.php:35
+msgid "Files"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:34
+#: inc/admin/payments/class-wp-vip-admin-payments.php:58
+msgid "Parent Item:"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:36
+msgid "Add New File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:37
+msgid "Add File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:38
+msgid "New File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:39
+msgid "Edit File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:40
+msgid "Update File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:41
+msgid "View File"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:42
+msgid "Search Files"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:43
+#: inc/admin/payments/class-wp-vip-admin-payments.php:67
+msgid "Not found"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/files/class-wp-vip-admin-files.php:44
+#: inc/admin/payments/class-wp-vip-admin-payments.php:68
+msgid "Not found in Trash"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:45
+#: inc/admin/payments/class-wp-vip-admin-payments.php:56
+#: inc/admin/payments/class-wp-vip-admin-payments.php:57
+#: inc/admin/payments/class-wp-vip-admin-payments.php:59
+msgid "Payments"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:54
+msgctxt "Post Type General Name"
+msgid "Payments"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:55
+msgctxt "Post Type Singular Name"
+msgid "Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:60
+msgid "Add New Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:61
+msgid "Add Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:62
+msgid "New Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:63
+msgid "Edit Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:64
+msgid "Update Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:65
+msgid "View Payment"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:66
+msgid "Search Payments"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:97
+msgid "Author"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:98
+msgid "IP"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:99
+msgid "Status"
+msgstr ""
+
+# @ provip_admin
+# @ provip_frontend
+#: inc/admin/payments/class-wp-vip-admin-payments.php:100
+#: inc/views/admin/settings/gateways.php:17
+#: templates/content-single-download.php:75 templates/plans.php:28
+#: templates/shortcodes/receipt.php:57
+msgid "Gateway"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:118
+msgid "Pending"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:130
+msgid "Failed"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:28
+#: inc/admin/settings/class-wp-vip-admin-settings.php:29
+#: inc/views/admin/settings/gateways.php:65
+msgid "Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:49
+msgid "General"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:56
+msgid "Default VIP Roles"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:58
+#: inc/admin/settings/class-wp-vip-admin-settings.php:176
+#: inc/views/admin/settings/vip-levels-field.php:32
+msgid "Yes"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:59
+#: inc/admin/settings/class-wp-vip-admin-settings.php:175
+#: inc/views/admin/settings/vip-levels-field.php:31
+msgid "No"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:62
+msgid "Currency Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:70
+msgid "Default Currency"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:73
+msgid "Left (£99.99)"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:74
+msgid "Right (99.99£)"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:75
+msgid "Left with space (£ 99.99)"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:76
+msgid "Right with space (99.99 £)"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:77
+msgid "Currency Position"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:79
+msgid "Thousand Separator"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:80
+msgid "Decimal Separator"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:81
+msgid "Number of Decimals"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:87
+msgid "VIP Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:95
+msgid "Pages"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:110
+msgid "Emails"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:112
+msgid "Email Logo"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:114
+msgid "Email Footer"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:116
+msgid "From Name"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:117
+msgid "From Email"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:119
+msgid "<h3>Account Purchase</h3>"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:124
+msgid "Purchase Account Subject"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:125
+#: inc/payment/class-wp-vip-payment-actions.php:42
+msgid "Account Purchase"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:129
+msgid "Account Purchase Receipt"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:130
+#: inc/admin/settings/class-wp-vip-admin-settings.php:148
+msgid "Available template tags: <br/>{{name}}: User's Name<br/>"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:158
+msgid "Payment Gateway"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:170
+msgid "Other"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:178
+msgid "Delete Expired Users from Database"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:260
+#, php-format
+msgctxt "Gateway Settings"
+msgid "%s Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-vip-bulk-edit.php:28
+msgid "VIP Bulk Edit"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-vip-bulk-edit.php:56
+msgid "\"Time\" field must be a valid integer."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-vip-bulk-edit.php:61
+msgid "You must select at least one level to update."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-vip-bulk-edit.php:170
+#, php-format
+msgid "%d user updated."
+msgid_plural "%d users updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools.php:43
+#: inc/admin/tools/class-wp-vip-admin-tools.php:46
+#: inc/views/admin/tools/index.php:8
+msgid "Tools"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools.php:68
+msgid "Back"
+msgstr ""
+
+# @ provip_frontend
+#: inc/actions/class-wp-vip-actions.php:49
+#, php-format
+msgid "Oops. You cannot download this file. <a href=\"%s\">Return to site</a>"
+msgstr ""
+
+# @ provip_admin
+#: inc/actions/class-wp-vip-actions.php:76
+msgid "Invalid Plan or plan level."
+msgstr ""
+
+# @ provip_frontend
+#: inc/actions/class-wp-vip-actions.php:81
+#: inc/classes/class-wp-vip-notices.php:90
+msgid "Invalid email address."
+msgstr ""
+
+# @ provip_frontend
+#: inc/classes/class-wp-vip-notices.php:92
+msgid "Invalid name."
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:42
+msgid "United States dollar"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:46
+msgid "Euro"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:50
+msgid "Japanese yen"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:54
+msgid "Pound sterling"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:58
+msgid "Australian dollar"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:62
+msgid "Swiss franc"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:66
+msgid "Canadian dollar"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:70
+msgid "Mexican peso"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:74
+msgid "Chinese yuan"
+msgstr ""
+
+# @ provip_admin
+#: inc/classes/class-wp-vip-currency.php:78
+msgid "New Zealand dollar"
+msgstr ""
+
+# @ provip_frontend
+#: inc/email/strings.php:3
+msgid ""
+"<h2 style='font-size: 25px; font-family: Helvetica, Arial, Tahoma, sans-"
+"serif; color: #333333;'>Dear {{name}},</h2>\n"
+"\n"
+"Thank you for your purchase. Now you're a <strong>{{vip-plan-name}}</strong> "
+"member."
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment-gateway.php:75
+msgid "No Payment Gateway."
+msgstr ""
+
+# @ provip_admin
+#: inc/payment/class-wp-vip-payment.php:62
+msgid "WP VIP Payment"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:109 templates/shortcodes/receipt.php:9
+msgid "Payment not found."
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:10
+msgid "Pro VIP"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:14
+msgid "About"
+msgstr "درباه"
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:31
+msgid "Nothing found."
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:47
+msgid "Overview"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:55
+msgid "Total VIP Users"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:59
+msgid "Total VIP Accounts"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:65
+msgid "VIP Levels Users"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:76
+msgid "Total Purchases"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:84
+msgid "Last 24 hours purchases"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:92
+msgid "Last week purchases"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:102
+msgid "Most Purchased File"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:107
+#: inc/views/admin/dashboard/index.php:120
+msgid "No purchase yet."
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/dashboard/index.php:115
+msgid "Most Recent Purchase"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-item.php:8
+msgid "File download name:"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-item.php:12
+msgid "File price:"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-item.php:17
+#, php-format
+msgid "Downloaded %s time"
+msgid_plural "Downloaded %s times"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-item.php:18
+msgid "Download File"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-item.php:19
+msgid "Delete File"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-settings.php:13
+msgid "General Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-settings.php:18
+msgid "Enable Single Sale"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/file-settings.php:31
+msgid "Single Sale Settings"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/files/files-container.php:26
+#: inc/views/admin/files/metabox-wrapper.php:21
+msgid "Choose File"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/gateways.php:16
+msgid "Default"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/gateways.php:18
+msgid "Gateway ID"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/gateways.php:19
+msgid "Enabled"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/plans-field.php:10
+msgid "Plans"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/plans-field.php:22
+#: inc/views/admin/settings/plans-field.php:65
+#: inc/views/admin/settings/vip-levels-field.php:22
+#: inc/views/admin/settings/vip-levels-field.php:55
+msgid "Name"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/plans-field.php:29
+#: inc/views/admin/settings/plans-field.php:72
+msgid "Time (in days)"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/plans-field.php:36
+#: inc/views/admin/settings/plans-field.php:79
+msgid "Cost"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/plans-field.php:48
+#: inc/views/admin/settings/plans-field.php:90
+#: inc/views/admin/settings/vip-levels-field.php:37
+#: inc/views/admin/settings/vip-levels-field.php:60
+msgid "Remove Plan"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/plans-field.php:56
+msgid "Add Plan"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/vip-levels-field.php:10
+msgid "VIP Level"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/vip-levels-field.php:29
+msgid "Check by default"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/settings/vip-levels-field.php:45
+msgid "Add Level"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:17
+msgid "Action"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:19
+msgid "Increase"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:20
+msgid "Decrease"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:27
+msgid "Time"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:30
+msgid "Seconds"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:31
+#: inc/views/admin/tools/edit-user/edit.php:37
+msgid "Minutes"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:32
+#: inc/views/admin/tools/edit-user/edit.php:38
+msgid "Hours"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:33
+#: inc/views/admin/tools/edit-user/edit.php:39
+msgid "Days"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:34
+#: inc/views/admin/tools/edit-user/edit.php:40
+msgid "Weeks"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:35
+#: inc/views/admin/tools/edit-user/edit.php:41
+msgid "Years"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:42
+msgid "Level"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:63
+#: inc/views/admin/tools/bulk-vip-edit/index.php:74
+msgid "After"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:64
+#: inc/views/admin/tools/bulk-vip-edit/index.php:75
+msgid "Before"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:66
+#: inc/views/admin/tools/bulk-vip-edit/index.php:77
+msgid "Pick a date"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:82
+msgid "More Filters"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:93
+msgid "Edit"
+msgstr ""
+
+# @ provip_admin
+#: templates/content-single-download.php:137
+msgid "You need to be logged in."
+msgstr ""
+
+# @ provip_frontend
+#: templates/content-single-download.php:138
+msgid "Login"
+msgstr ""
+
+# @ provip_frontend
+#: templates/content-single-download.php:139
+msgid "Register"
+msgstr ""
+
+# @ provip_frontend
+#: templates/payment/payment-redirect.php:10
+#: templates/payment/payment-redirect.php:27
+msgid "Redirecting"
+msgstr ""
+
+# @ provip_frontend
+#: templates/payment/payment-redirect.php:14
+msgid "Redirect Now"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:100
+msgid "Purchase Plan"
+msgstr ""
+
+# @ provip_frontend
+#: templates/plans.php:5
+msgid "Plan"
+msgstr ""
+
+# @ provip_frontend
+#: templates/plans.php:16
+msgid "Plan Type"
+msgstr ""
+
+# @ provip_frontend
+#: templates/content-single-download.php:113 templates/plans.php:41
+msgid "Email Address"
+msgstr ""
+
+# @ provip_frontend
+# @ provip_admin
+#: templates/content-single-download.php:129 templates/plans.php:64
+msgid "Purchase"
+msgstr ""
+
+# @ provip_frontend
+#: inc/actions/class-wp-vip-actions.php:86
+msgid "Empty first name."
+msgstr ""
+
+# @ provip_frontend
+#: inc/actions/class-wp-vip-actions.php:177
+msgid "Single sale not enabled."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/payments/class-wp-vip-admin-payments.php:165
+msgid "You don't have access to this page."
+msgstr ""
+
+# @ default
+#: inc/admin/settings/class-wp-vip-admin-settings.php:99
+msgid "Put this shortcode in the page content. [pv-plans-form]"
+msgstr ""
+
+# @ default
+#: inc/admin/settings/class-wp-vip-admin-settings.php:104
+msgid ""
+"This is the page buyers are sent to after completing their purchases. The "
+"[pv-receipt] short code should be on this page."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:105
+msgid "Success Page"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:137
+msgid "<h3>File Purchase</h3>"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:142
+msgid "Purchase File Subject"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:143
+#: inc/payment/class-wp-vip-payment-actions.php:101
+msgid "File Purchase"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:147
+msgid "File Purchase Receipt"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/settings/class-wp-vip-admin-settings.php:184
+msgid "Encryption Key"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-edit-user.php:37
+msgid "Edit User"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-edit-user.php:77
+msgid "Enter a valid vip time."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-edit-user.php:80
+msgid "Selected level does not exists."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-edit-user.php:83
+msgid "User not found."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-edit-user.php:124
+msgid "User updated."
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-edit-user.php:124
+msgid "An error happened. Please try again"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:27
+msgid "System Info"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:45
+msgid "Wordpress"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:47
+msgid "Site URL"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:48
+msgid "Home URL"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:49
+msgid "Admin Email"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:50
+msgid "Wordpress Version"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:51
+msgid "Debug Mode"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:52
+msgid "Language"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:57
+msgid "User Browser"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/tools/class-wp-vip-admin-tools-system-info.php:58
+msgid "User Agent String"
+msgstr ""
+
+# @ provip_admin
+#: inc/admin/users/class-wp-vip-admin-users-column.php:32
+msgid "VIP Data"
+msgstr ""
+
+# @ provip_frontend
+#: inc/classes/class-wp-vip-notices.php:87
+msgid "An error happened. Please tray again."
+msgstr ""
+
+# @ provip_frontend
+#: inc/classes/class-wp-vip-notices.php:88
+msgid "An error happened."
+msgstr ""
+
+# @ provip_frontend
+#: inc/classes/class-wp-vip-notices.php:89
+msgid "Empty email address."
+msgstr ""
+
+# @ provip_frontend
+#: inc/classes/class-wp-vip-notices.php:91
+msgid "Empty name."
+msgstr ""
+
+# @ provip_frontend
+#: inc/email/strings.php:6
+msgid ""
+"<h2 style='font-size: 25px; font-family: Helvetica, Arial, Tahoma, sans-"
+"serif; color: #333333;'>Dear {{name}},</h2>\n"
+"\n"
+"Thank you for your purchase. Please click on the link below to download the "
+"file.\n"
+"<a href='{{download-link}}'>{{file-name}}</a>"
+msgstr ""
+
+# @ default
+#: inc/payment/class-wp-vip-payment-actions.php:81
+msgid ""
+"There was a problem while registering user purchase. Please contact to site "
+"administrator."
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment-gateway.php:97
+#: templates/shortcodes/receipt.php:28
+msgid "Payment"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:122
+msgid "Complete"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:126
+msgid "Refunded"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:134
+msgid "Abandoned"
+msgstr ""
+
+# @ provip_frontend
+#: inc/payment/class-wp-vip-payment.php:138
+msgid "Revoked"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:61
+msgid "Users who registered"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/bulk-vip-edit/index.php:72
+msgid "Users who purchased account"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/edit-user/edit.php:10
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/edit-user/edit.php:73
+#: inc/views/admin/users/vip-column.php:21
+msgid "Started:"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/edit-user/edit.php:76
+#: inc/views/admin/tools/edit-user/edit.php:84
+#: inc/views/admin/users/vip-column.php:24
+#: inc/views/admin/users/vip-column.php:32
+msgid "ago"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/edit-user/edit.php:81
+#: inc/views/admin/users/vip-column.php:29
+msgid "Last Update:"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/edit-user/edit.php:88
+#: inc/views/admin/users/vip-column.php:36
+msgid "Expiration:"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/tools/edit-user/edit.php:98
+#: inc/views/admin/users/vip-column.php:46
+msgid "remained"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/users/vip-column.php:7
+msgid "No Account"
+msgstr ""
+
+# @ provip_admin
+#: inc/views/admin/users/vip-column.php:57
+msgid "Edit Accounts"
+msgstr ""
+
+# @ provip_frontend
+#: templates/content-single-download.php:57
+#, php-format
+msgid "Purchase %s"
+msgstr ""
+
+# @ provip_frontend
+#: templates/content-single-download.php:89 templates/plans.php:49
+msgid "First Name"
+msgstr ""
+
+# @ provip_frontend
+#: templates/content-single-download.php:101 templates/plans.php:57
+msgid "Last Name"
+msgstr ""
+
+# @ provip_frontend
+#: templates/shortcodes/receipt.php:50
+msgid "Payment Status"
+msgstr ""
+
+# @ provip_frontend
+#: templates/shortcodes/receipt.php:64
+msgid "Amount"
+msgstr ""
+
+# @ provip_frontend
+#: templates/shortcodes/receipt.php:71
+msgid "Date"
+msgstr ""
+
+# @ provip_frontend
+#: templates/shortcodes/receipt.php:82
+msgid "Payment Key"
+msgstr ""
