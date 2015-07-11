@@ -59,8 +59,15 @@ class Pro_VIP_IR_Zarinpal_Gateway extends Pro_VIP_Payment_Gateway {
 	}
 
 	public function afterPayment() {
-		if ( empty( $_GET[ 'Authority' ] ) || ! is_string( $_GET[ 'Authority' ] ) ) {
+		if ( empty( $_GET[ 'Authority' ] ) || ! is_string( $_GET[ 'Authority' ] ) || !isset( $_GET['Status'] ) ) {
 			pvAddNotice( 'خطا در تراکنش' );
+			$this->paymentFailed();
+
+			return false;
+		}
+
+		if( $_GET[ 'Status' ] == 'NOK' ){
+			pvAddNotice( 'پرداخت ناموفق.' );
 			$this->paymentFailed();
 
 			return false;
